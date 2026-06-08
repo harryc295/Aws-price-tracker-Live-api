@@ -3,4 +3,3 @@ __pycache__/
 *.pyc
 logs/*.log
 *.log
-data/cost_log.csv
