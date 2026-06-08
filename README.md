@@ -1,4 +1,5 @@
 # AWS Price Tracker – Live API
+[![Daily AWS Price Tracker](https://github.com/harryc295/Aws-price-tracker-Live-api/actions/workflows/daily-price.yml/badge.svg)](https://github.com/harryc295/Aws-price-tracker-Live-api/actions/workflows/daily-price.yml)
 
 Automated daily tracking of EC2 on‑demand prices using the **official AWS Price List API** via `boto3`.
 Runs on GitHub Actions, logs historical prices to CSV.
