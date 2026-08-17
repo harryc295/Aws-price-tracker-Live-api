@@ -283,3 +283,7 @@ timestamp_utc,region_code,region_friendly,instance_type,os,tenancy,price_usd
 2026-08-16T09:26:38+00:00,us-west-2,US West (Oregon),t3.micro,Linux,Shared,0.010400
 2026-08-16T09:26:38+00:00,eu-west-1,EU (Ireland),t4g.micro,Linux,Shared,0.009200
 2026-08-16T09:26:38+00:00,ap-southeast-1,Asia Pacific (Singapore),m5.large,Linux,Shared,0.120000
+2026-08-17T09:41:05+00:00,us-east-1,US East (N. Virginia),t3.micro,Linux,Shared,0.010400
+2026-08-17T09:41:05+00:00,us-west-2,US West (Oregon),t3.micro,Linux,Shared,0.010400
+2026-08-17T09:41:05+00:00,eu-west-1,EU (Ireland),t4g.micro,Linux,Shared,0.009200
+2026-08-17T09:41:05+00:00,ap-southeast-1,Asia Pacific (Singapore),m5.large,Linux,Shared,0.120000
